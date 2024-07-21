@@ -1,0 +1,33 @@
+body{
+    background-color: black;
+    color: white;
+    font-size: 22px;
+    padding: 14px;
+    margin: 60px;
+}
+
+.steps {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 18px;
+    letter-spacing: 3px;
+    padding: 20px;
+}
+
+.ingredients {
+    font-family: Verdana,Tahoma, sans-serif;
+    font-size: 25px;
+    line-height: 32px;
+    margin: 3%;
+
+}
+
+#title {
+    letter-spacing: 40px;
+    font-style: italic;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+header, footer {
+    background-color: lavender;
+}
+
