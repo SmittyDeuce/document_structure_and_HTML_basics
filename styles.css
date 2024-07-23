@@ -30,8 +30,9 @@ header, footer {
 }
 
 a:hover {
-    color: green;
+    color: red;
     text-decoration: none;
+
 }
 
 
@@ -46,4 +47,16 @@ a:hover {
 .recipe > hr {
     padding: 1rem;
     margin: 30px;
+}
+
+img {
+    width: 300px;
+}
+
+.button {
+    text-decoration: wavy;
+    width: 80px;
+    height: 90px;
+    background-color: pink;
+    font-weight: bold;
 }
