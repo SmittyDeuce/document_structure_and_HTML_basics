@@ -1,9 +1,7 @@
-body{
+body {
     background-color: black;
     color: white;
     font-size: 22px;
-    padding: 14px;
-    margin: 60px;
 }
 
 .steps {
@@ -14,11 +12,10 @@ body{
 }
 
 .ingredients {
-    font-family: Verdana,Tahoma, sans-serif;
+    font-family: Verdana, Tahoma, sans-serif;
     font-size: 25px;
     line-height: 32px;
     margin: 3%;
-
 }
 
 #title {
@@ -29,5 +26,24 @@ body{
 
 header, footer {
     background-color: lavender;
+    color: black;
 }
 
+a:hover {
+    color: green;
+    text-decoration: none;
+}
+
+
+.recipe {
+    border: 5px solid white;
+    padding: 20px;
+    margin: 20px;
+}
+
+
+
+.recipe > hr {
+    padding: 1rem;
+    margin: 30px;
+}
